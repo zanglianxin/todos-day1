@@ -6,7 +6,7 @@
       <todo-main></todo-main>
       <todo-footer></todo-footer>
     </div>
-    <Mybutton title='我的内容' type="info" plain></Mybutton>
+    <Mybutton title='我的内容' type="info" size='large' plain></Mybutton>
   </div>
 </template>
 
