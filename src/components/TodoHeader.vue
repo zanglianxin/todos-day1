@@ -27,7 +27,7 @@ export default {
       if (this.inp.trim().length === 0) {
         return alert('内容不能为空')
       }
-      let id = this.list[this.list.length - 1]?.id + 1 || 1
+      let id = this.list[0]?.id + 1 || 1
       const listObj = {
         id,
         name: this.inp,

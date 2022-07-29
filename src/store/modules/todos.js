@@ -5,7 +5,7 @@ export default{
         {
           name: "吃饭",
           done: false,
-          id: 1,
+          id: 3,
         },
         {
           name: "睡觉",
@@ -15,7 +15,7 @@ export default{
         {
           name: "打豆豆",
           done: false,
-          id: 3,
+          id: 1,
         },
       ],
     },
